@@ -1,8 +1,8 @@
-# <h1>Security Incident #2</h1>
+# <h1>Security Risk Assessment</h1>
 
 
 <h2>Description</h2>
-In this project, I created a security incident report based on one of the Google Cybersecurity Certificate example scenarios: 
+In this project, I created a security risk assessment based on one of the Google Cybersecurity Certificate example scenarios: 
 
 You are a security analyst working for a social media organization. The organization recently experienced a major data breach, which compromised the safety of their customers’ personal information, such as names and addresses. Your organization wants to implement strong network hardening practices that can be performed consistently to prevent attacks and breaches in the future. 
 
@@ -19,7 +19,6 @@ Multifactor authentication (MFA) is not used.
 If no action is taken to address these vulnerabilities, the organization is at risk of experiencing another data breach or other attacks in the future. 
 
 In this activity, you will write a security risk assessment to analyze the incident and explain what methods can be used to further secure the network.
-<br />
 
 
 <h2>Utilities Used</h2>
@@ -29,5 +28,5 @@ In this activity, you will write a security risk assessment to analyze the incid
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Section 1: Identify the network protocol involved in the incident: <br/>
-<img src="https://i.imgur.com/oxTMqaD.png"/>
+Recommended tools and explanations: <br/>
+<img src="https://i.imgur.com/gCRz8pU.png"/>
